@@ -6,6 +6,5 @@
 
 ##Thank you:)
 
-![Demo Video](https://user-images.githubusercontent.com/130981122/235174413-5abe3766-66e7-4345-8e9b-bb0b1ece87b8.mov)
+https://user-images.githubusercontent.com/130981122/235174413-5abe3766-66e7-4345-8e9b-bb0b1ece87b8.mov)
 
-)
